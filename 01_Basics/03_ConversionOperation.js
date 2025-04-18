@@ -157,8 +157,31 @@
 // console.log(typeof(booleanIsLoggedIn));
 // console.log(booleanIsLoggedIn);
 
-let someNumber = 33;
-let stringNumber = String(someNumber);
-console.log(stringNumber);
-console.log(typeof(stringNumber))
+// let someNumber = 33;
+// let stringNumber = String(someNumber);
+// console.log(stringNumber);
+// console.log(typeof(stringNumber))
+
+
+//######################################### Operations ##########################
+
+// let str1 = "sachin ";
+// let str2 = "kumar";
+// let str3 = str1 + str2
+// console.log(str3);
+
+// console.log(2+"5"); // output : 25
+// console.log("2"+5);// output : 25
+// console.log("2"+5+5);// output : 225
+// console.log(5+2+"2"); // output: 72
+// console.log("3"+3+8); // output : 388
+
+// console.log(+true) // 1
+
+let num1,num2,num3;
+num1 = num2 = num3 = 4;
+console.log(num1,num2,num3);
+
+
+
 
