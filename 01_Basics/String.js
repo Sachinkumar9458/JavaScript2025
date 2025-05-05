@@ -25,7 +25,7 @@ console.log(newStringOne.trim());
 
 const block = "Hi everyone my name is sachin kumar ";
 console.log(block.replace("sachin","ankit"));
-console.log(block.includes("everyone"))
-console.log(block.includes("siea"))
+console.log(block.includes("everyone"));
+console.log(block.includes("siea"));
 
-console.log(gameName.split("-"))
+console.log(gameName.split("-"));
